@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ice is cold
+=======
+Some ice added
+>>>>>>> 62fa659676c3e1bb41b2aa014207b8d5542bad9f
